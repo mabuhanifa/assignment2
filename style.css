@@ -156,7 +156,7 @@ small {
 }
 
 .pro-pic {
-    width: 400px;
+    width: 500px;
     border-radius: 10px;
 }
 
@@ -170,7 +170,7 @@ small {
 }
 
 .pro-content p {
-    width: 80%;
+    width: 60%;
     margin-bottom: 20px;
 }
 
